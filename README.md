@@ -7,6 +7,8 @@
 
 FuriaFan Chat é um chatbot interativo desenvolvido para os torcedores da FURIA Esports, focado especialmente nos fãs do time de Counter-Strike 2. O projeto oferece uma experiência conversacional envolvente com conteúdo exclusivo sobre os jogadores, configurações, curiosidades e dicas do time.
 
+## 🌐 Link: https://cheerful-cascaron-f56abd.netlify.app/
+
 ## 🚀 Funcionalidades
 
 - **Landing Page Atrativa**: Interface inicial moderna com informações sobre as funcionalidades do chatbot
