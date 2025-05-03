@@ -1,6 +1,7 @@
 # FuriaFan Chat
 
-![FURIA Logo](https://images.seeklogo.com/logo-png/42/2/furia-esports-logo-png_seeklogo-428783.png)
+![image](https://github.com/user-attachments/assets/7961f55f-469d-4b2b-b766-b745f250d2fb)
+
 
 ## 📋 Visão Geral
 
