@@ -1,13 +1,46 @@
+/* src/index.css */
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #000000; /* Fundo preto para toda a página */
+  color: #ffffff;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Ajustes gerais */
+* {
+  box-sizing: border-box;
+}
+
+/* Para garantir que o fundo preto se aplique a toda a página */
+html, #root {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+/* Remover margens padrão */
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 0;
+}
+
+/* Links gerais */
+a {
+  color: #FF5722;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #FF8A65;
+}
+
+/* Botões gerais */
+button {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: pointer;
 }
